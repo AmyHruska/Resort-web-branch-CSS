@@ -1,0 +1,25 @@
+/* Style sheet with 255,255,255 - 91,206,250 - 245,169,184 backgrounds */
+h1  {
+    color: black;
+    background-color: rgb(91, 206, 250);
+}
+h2 {
+    color: black;
+    background-color: rgb(91, 206, 250);
+}
+h2 {
+    color: black;
+    background-color: rgb(91, 206, 250);
+}
+ol  {
+    color: black;
+    background-color: rgb(245, 169, 184);
+}
+ul  {
+    color: black;
+    background-color: rgb(245, 169, 184);
+}
+li  {
+    color: black;
+    background-color: white;
+}
