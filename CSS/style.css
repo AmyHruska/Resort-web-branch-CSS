@@ -2,12 +2,13 @@
 h1  {
     color: black;
     background-color: rgb(91, 206, 250);
+    text-align: center;
 }
 h2 {
     color: black;
     background-color: rgb(91, 206, 250);
 }
-h2 {
+h3 {
     color: black;
     background-color: rgb(91, 206, 250);
 }
@@ -20,6 +21,10 @@ ul  {
     background-color: rgb(245, 169, 184);
 }
 li  {
+    color: black;
+    background-color: rgb(245, 169, 184);
+}
+p {
     color: black;
     background-color: white;
 }
