@@ -1,33 +1,36 @@
-/* Style sheet with 255,255,255 - 91,206,250 - 245,169,184 backgrounds */
+/* Style sheet with 214, 2, 112 - 155, 79, 150 - 0, 56, 168 - backgrounds */
+body {
+    background-color: rgb(214, 2, 112);
+}
 h1  {
     color: black;
-    background-color: rgb(91, 206, 250);
+    background-color: rgb(155, 79, 150);
     text-align: center;
 }
 h2 {
     color: black;
-    background-color: rgb(91, 206, 250);
+    background-color: rgb(214, 2, 112);
 }
 h3 {
     color: black;
-    background-color: rgb(91, 206, 250);
+    background-color: rgb(214, 2, 112);
     text-align: center;
 }
 ol  {
-    color: black;
-    background-color: rgb(245, 169, 184);
+    color: white;
+    background-color: rgb(155, 79, 150);
 }
 ul  {
     color: black;
-    background-color: rgb(245, 169, 184);
+    background-color: rgb(155, 79, 150);
 }
 li  {
     color: black;
-    background-color: rgb(245, 169, 184);
+    background-color: rgb(155, 79, 150);
 }
 p {
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: rgb(0, 56, 168);
 }
 a {
     margin-left: 50px;
